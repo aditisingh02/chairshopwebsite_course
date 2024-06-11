@@ -1,5 +1,7 @@
 <h1 align="center">Chair Shop Website</h1>
 
+<h3 align="left">🌠 Overview</h3>
+A basic website for a shop selling chairs. It also provides detailed information about each chair, a shopping cart feature, and pages for learning more about the shop and contacting the team. The site is user-friendly, fast, and mobile-optimized.
 <div align="center">
 <img width=80% src="https://github.com/aditisingh02/chairshopwebsite_course/assets/140513260/0772078f-a268-4575-a60c-4fe7ed360f9e">
 
